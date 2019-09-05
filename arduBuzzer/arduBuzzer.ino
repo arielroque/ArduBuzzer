@@ -1,6 +1,6 @@
 
 //ArduBuzzer Music Player
-//Ariel Roque
+//author: Ariel Roque
 
 #include <LiquidCrystal.h>
 
