@@ -1,4 +1,7 @@
 
+//ArduBuzzer Music Player
+//Ariel Roque
+
 #include <LiquidCrystal.h>
 
 #define NOTE_C4 262
